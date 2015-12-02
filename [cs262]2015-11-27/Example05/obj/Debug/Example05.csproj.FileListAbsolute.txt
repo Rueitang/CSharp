@@ -1,0 +1,9 @@
+C:\Users\HRT\Documents\Visual Studio 2015\Projects\[cs262]2015-11-27\Example05\bin\Debug\Example05.exe.config
+C:\Users\HRT\Documents\Visual Studio 2015\Projects\[cs262]2015-11-27\Example05\bin\Debug\Example05.exe
+C:\Users\HRT\Documents\Visual Studio 2015\Projects\[cs262]2015-11-27\Example05\bin\Debug\Example05.pdb
+C:\Users\HRT\Documents\Visual Studio 2015\Projects\[cs262]2015-11-27\Example05\obj\Debug\Example05.csprojResolveAssemblyReference.cache
+C:\Users\HRT\Documents\Visual Studio 2015\Projects\[cs262]2015-11-27\Example05\obj\Debug\Example05.Form1.resources
+C:\Users\HRT\Documents\Visual Studio 2015\Projects\[cs262]2015-11-27\Example05\obj\Debug\Example05.Properties.Resources.resources
+C:\Users\HRT\Documents\Visual Studio 2015\Projects\[cs262]2015-11-27\Example05\obj\Debug\Example05.csproj.GenerateResource.Cache
+C:\Users\HRT\Documents\Visual Studio 2015\Projects\[cs262]2015-11-27\Example05\obj\Debug\Example05.exe
+C:\Users\HRT\Documents\Visual Studio 2015\Projects\[cs262]2015-11-27\Example05\obj\Debug\Example05.pdb

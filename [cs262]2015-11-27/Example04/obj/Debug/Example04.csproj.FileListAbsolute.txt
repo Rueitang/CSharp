@@ -1,0 +1,14 @@
+c:\users\hrt\documents\visual studio 2015\Projects\[cs262]2015-11-27\Example04\bin\Debug\Example04.exe.config
+c:\users\hrt\documents\visual studio 2015\Projects\[cs262]2015-11-27\Example04\bin\Debug\Example04.exe
+c:\users\hrt\documents\visual studio 2015\Projects\[cs262]2015-11-27\Example04\bin\Debug\Example04.pdb
+c:\users\hrt\documents\visual studio 2015\Projects\[cs262]2015-11-27\Example04\obj\Debug\Example04.csprojResolveAssemblyReference.cache
+c:\users\hrt\documents\visual studio 2015\Projects\[cs262]2015-11-27\Example04\obj\Debug\MainWindow.g.cs
+c:\users\hrt\documents\visual studio 2015\Projects\[cs262]2015-11-27\Example04\obj\Debug\App.g.cs
+c:\users\hrt\documents\visual studio 2015\Projects\[cs262]2015-11-27\Example04\obj\Debug\Example04_MarkupCompile.cache
+c:\users\hrt\documents\visual studio 2015\Projects\[cs262]2015-11-27\Example04\obj\Debug\Example04_MarkupCompile.lref
+c:\users\hrt\documents\visual studio 2015\Projects\[cs262]2015-11-27\Example04\obj\Debug\MainWindow.baml
+c:\users\hrt\documents\visual studio 2015\Projects\[cs262]2015-11-27\Example04\obj\Debug\Example04.g.resources
+c:\users\hrt\documents\visual studio 2015\Projects\[cs262]2015-11-27\Example04\obj\Debug\Example04.Properties.Resources.resources
+c:\users\hrt\documents\visual studio 2015\Projects\[cs262]2015-11-27\Example04\obj\Debug\Example04.csproj.GenerateResource.Cache
+c:\users\hrt\documents\visual studio 2015\Projects\[cs262]2015-11-27\Example04\obj\Debug\Example04.exe
+c:\users\hrt\documents\visual studio 2015\Projects\[cs262]2015-11-27\Example04\obj\Debug\Example04.pdb
