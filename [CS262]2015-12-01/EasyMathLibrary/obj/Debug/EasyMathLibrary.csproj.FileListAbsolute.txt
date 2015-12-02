@@ -1,0 +1,5 @@
+W:\C#\[CS262]2015-12-01\EasyMathLibrary\bin\Debug\EasyMathLibrary.dll
+W:\C#\[CS262]2015-12-01\EasyMathLibrary\bin\Debug\EasyMathLibrary.pdb
+W:\C#\[CS262]2015-12-01\EasyMathLibrary\obj\Debug\EasyMathLibrary.csprojResolveAssemblyReference.cache
+W:\C#\[CS262]2015-12-01\EasyMathLibrary\obj\Debug\EasyMathLibrary.dll
+W:\C#\[CS262]2015-12-01\EasyMathLibrary\obj\Debug\EasyMathLibrary.pdb

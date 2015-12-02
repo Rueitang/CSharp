@@ -1,0 +1,5 @@
+W:\C#\[CS262]2015-12-01\StudentLibrary\bin\Debug\StudentLibrary.dll
+W:\C#\[CS262]2015-12-01\StudentLibrary\bin\Debug\StudentLibrary.pdb
+W:\C#\[CS262]2015-12-01\StudentLibrary\obj\Debug\StudentLibrary.dll
+W:\C#\[CS262]2015-12-01\StudentLibrary\obj\Debug\StudentLibrary.pdb
+W:\C#\[CS262]2015-12-01\StudentLibrary\obj\Debug\StudentLibrary.csprojResolveAssemblyReference.cache

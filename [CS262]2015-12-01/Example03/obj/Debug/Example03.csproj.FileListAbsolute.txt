@@ -1,0 +1,10 @@
+W:\C#\[CS262]2015-12-01\Example03\bin\Debug\Example03.exe.config
+W:\C#\[CS262]2015-12-01\Example03\bin\Debug\Example03.exe
+W:\C#\[CS262]2015-12-01\Example03\bin\Debug\Example03.pdb
+W:\C#\[CS262]2015-12-01\Example03\bin\Debug\StudentLibrary.dll
+W:\C#\[CS262]2015-12-01\Example03\bin\Debug\StudentLibrary.pdb
+W:\C#\[CS262]2015-12-01\Example03\obj\Debug\Example03.csprojResolveAssemblyReference.cache
+W:\C#\[CS262]2015-12-01\Example03\obj\Debug\Example03.exe
+W:\C#\[CS262]2015-12-01\Example03\obj\Debug\Example03.pdb
+W:\C#\[CS262]2015-12-01\Example03\bin\Debug\EasyMathLibrary.dll
+W:\C#\[CS262]2015-12-01\Example03\bin\Debug\EasyMathLibrary.pdb
